@@ -6,7 +6,7 @@
 #' @description
 #' This function plots the specified variable in a caterpillar plot
 #' @import ggplot2 tidyverse plotly
-#' @keywords ecology, optimum, tolerance, species density
+#' @concepts ecology, optimum, tolerance, species density
 #' @export op_plot
 #'
 

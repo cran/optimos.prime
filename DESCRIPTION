@@ -2,7 +2,7 @@ Package: optimos.prime
 Type: Package
 Title: Optimos Prime Helps Calculate Autoecological Data for Biological
         Species
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("María Belén", "Sathicq", email = "mbelen@ilpla.edu.ar", role = "aut"),
     person("María Mercedes", "Nicolosi Gelis", email = "mercedesnicolosi@ilpla.edu.ar", role = "aut"),
@@ -19,9 +19,9 @@ LazyData: true
 RoxygenNote: 6.1.1.9000
 Depends: ggplot2, tidyverse, plotly
 NeedsCompilation: no
-Packaged: 2019-02-08 17:18:13 UTC; Juaco
+Packaged: 2019-12-17 17:54:56 UTC; Juaco
 Author: María Belén Sathicq [aut],
   María Mercedes Nicolosi Gelis [aut],
   Joaquín Cochero [cre]
 Repository: CRAN
-Date/Publication: 2019-02-18 09:50:03 UTC
+Date/Publication: 2019-12-17 20:10:05 UTC

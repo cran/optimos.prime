@@ -4,10 +4,10 @@
 \alias{op_lists}
 \title{Optimos Prime calculates optima and tolerance for a matrix of species and environmental factors}
 \usage{
-op_lists(enviromental_df, species_df, listOnly = 0)
+op_lists(environmental_df, species_df, listOnly = 0)
 }
 \arguments{
-\item{enviromental_df}{The dataframe with your environmental data. Variables as rows, Sites as columns}
+\item{environmental_df}{The dataframe with your environmental data. Variables as rows, Sites as columns}
 
 \item{species_df}{The dataframe with your species densities. Species as rows, Sites as columns.}
 
@@ -30,8 +30,8 @@ You will need two dataframes. If they are not specified as arguments, you will b
 \details{
 This function (op_lists) generates three lists from your dataframes: a species list, an environmental factors list and a sample (or sampling sites) list
 }
-\keyword{density}
-\keyword{ecology,}
-\keyword{optimum,}
-\keyword{species}
-\keyword{tolerance,}
+\concept{density}
+\concept{ecology}
+\concept{optimum}
+\concept{species}
+\concept{tolerance}
