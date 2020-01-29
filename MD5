@@ -1,9 +1,9 @@
-96b778fa048575441f33063374337fd7 *DESCRIPTION
+3685ab43ccc943e4f5f7a0394ea3c893 *DESCRIPTION
 def0b459a78439f8d5468d0c6d53371a *NAMESPACE
 61abf7ccf7fe563fcfdebbb15e6a74d5 *R/data.R
-b053c5473ed3e0e53ee14b5d9d9131c4 *R/op_calculate.R
+2e3410f093752b51d0fb461811a4e384 *R/op_calculate.R
 c28a9b1f76564ed8dbc799cc020fd8f0 *R/op_lists.R
-ab9f518efbf98f3ef113d7be0e653e5d *R/op_plot.R
+080a743edd00d2b809e2bcb7d754ae7c *R/op_plot.R
 2036536a1535054a4978d9abbfc58018 *R/optimos.prime.R
 79bdee857f46db9109b2dd18196f28b9 *data/environmental_data.RData
 a830c3deec4241f7baefcf8bd47bdce7 *data/environmental_data_example_2.RData
